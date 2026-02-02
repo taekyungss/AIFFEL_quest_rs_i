@@ -12,7 +12,7 @@
 - [x]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
     - 코드가 실행하는 단계별로 현재 상황을 확인할 수 있게 되어있고, 주석을 통해 코드가 어떤 기능을 하는지 명확하고 간결하게 정리 되어있다. 
-      <img width="413" height="511" alt="image" src="https://github.com/user-attachments/assets/59b90939-4334-42f7-8e4b-bdd46adc7054" />
+  <img width="413" height="511" alt="image" src="https://github.com/user-attachments/assets/59b90939-4334-42f7-8e4b-bdd46adc7054" />
 
         
 - [x]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
